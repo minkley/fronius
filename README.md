@@ -1,7 +1,7 @@
 # fronius
 Fronius Inverter (symo) Data 
 
-## Use at your own risk - the code may save you some typing :)
+## The code may save you some typing :)
 
 ### doc
 
